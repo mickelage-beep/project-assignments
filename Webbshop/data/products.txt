@@ -1,0 +1,7 @@
+Game;Bloddborne;499.0;Världens bästa spel;G001
+Game;FinalFantasyX;399.0;Inte lika bra som Bloodborne;G002
+Game;Witcher3;299.0;Bättre än FFX men sämre än Bloodborne;G003
+Food;Kanelbulle;15.0;Väldigt goda bullar;M001
+Furniture;Skrivbord;1299.0;Stabilt bord i Ek;F001
+Furniture;Skrivbord;999.0;Inte lika stabilt bord i Ek;F002
+Game;It tajes two;99.0;Roliggt spel;G004
